@@ -27,6 +27,7 @@ oversample the minority class (attacks) using the (Synthetic Minority
 Over-sampling Technique). This should help balance the classes and
 improve the model\'s ability to predict attack scenarios.
 
+```
 ### Code here:
 
   import pandas as pd\
@@ -1496,4 +1497,4 @@ of the classification.
 Original Training Data: Accuracy: 0.9992925078772319 Precision:
 0.9685982518614439**
 
-
+```
